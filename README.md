@@ -8,3 +8,5 @@ I'll use Docker and Make as the basic tools to set up different environments qui
 | Tool     | command                       | Notes
 |----------|--------------------------------------| ---- |
 | postgres | `make pg`        | gets you inside a psql shell connected to a local postgres instance |
+
+
